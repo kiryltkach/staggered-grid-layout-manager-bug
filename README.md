@@ -7,7 +7,7 @@ Steps for reproduction:
 4. Submit new paging data to the adapter with empty pages
 5. Submit data with some non-empty pages to the adapter again
 
-Expected: the data is set and recyclerview is scrolled to the top
+Expected: the data is set and recyclerview is scrolled to the top  
 Actual: the data is set and recyclerview scroll position has some offset from the top
 
 Reproduces on AndroidX RecyclerView version 1.2.0 and Paging version 3.0.0
