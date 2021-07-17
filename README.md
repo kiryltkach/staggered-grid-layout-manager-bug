@@ -13,3 +13,4 @@ Actual: the data is set and recyclerview scroll position has some offset from th
 Reproduces on AndroidX RecyclerView version 1.2.0 and Paging version 3.0.0
 
 [Video](https://drive.google.com/file/d/18NYm4Z4AzatIdxJGXGiA2h0B9bZkbklK/view?usp=sharing)
+[Issue tracker](https://issuetracker.google.com/issues/193051321)
